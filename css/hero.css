@@ -1,0 +1,74 @@
+html, body{
+	font-family: Arial, sans-serif;
+	margin: 0;
+}
+
+header{
+	background-color: #330033;
+	padding-top: 80px;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 40px;
+	text-align:center;
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+}
+
+header img{
+	border-radius: 174px;
+    width: 300px;
+    height: 300px;
+    border: 24px solid #e67300
+
+}
+
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	background-color: bisque
+	padding: 0 20px;
+}
+
+img.big-image{
+	max-width: 100%;
+}
+
+p.caption{
+	font-size:  16px;
+	color: orange;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin:  0;
+}
+
+a{
+	color: purple;
+	text-decoration: none;
+	margin-bottom: 20px;
+}
+
+footer{
+	margin-top: 40px
+	padding: 40px 20px;
+	background-color: #f3ccff;
+}
+
+footer ul{
+	text-align: center;
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 0px 5px;
+}
+/*<header>
+		<img src="img/profile.jpg">
+				<h1>Ms. Frizzle</h1>
+		</header>*/
