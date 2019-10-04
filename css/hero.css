@@ -30,6 +30,7 @@ header img{
 	margin: 0 auto;
 	background-color: bisque
 	padding: 0 20px;
+	font-weight: lighter;
 }
 
 img.big-image{
@@ -40,12 +41,13 @@ p.caption{
 	font-size:  16px;
 	color: orange;
 	font-style: italic;
+	text-align: center;
 }
 
 ul{
 	list-style: none;
 	padding: 0;
-	margin:  0;
+	margin:  5;
 }
 
 a{
@@ -55,7 +57,7 @@ a{
 }
 
 footer{
-	margin-top: 40px
+	margin-top: 60px
 	padding: 40px 20px;
 	background-color: #f3ccff;
 }
@@ -66,7 +68,7 @@ footer ul{
 
 footer ul li{
 	display: inline-block;
-	margin: 0px 5px;
+	margin: 20px 5px;
 }
 /*<header>
 		<img src="img/profile.jpg">
